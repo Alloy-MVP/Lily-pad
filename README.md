@@ -19,8 +19,13 @@ This is the second PCB I made after trying a test one with just 4 buttons and a 
 <img width="1000" height="715" alt="image" src="https://github.com/user-attachments/assets/298b9907-bbb2-4e50-9d12-188e1983563e" />
 The top plate is screwed together with the base to hold the PCB inside and a gap for the USB on one side.
 
+
+## Finished Product
+<img width="4000" height="3000" alt="V2 Case" src="https://github.com/user-attachments/assets/d32c952e-eb11-443b-a101-f6a80d9cef39" />
+
+
 ## Firmware
-The folder for the firmware is titled "alloyed" and uses QMK.
+The folder for the firmware is titled "lily-pad" and uses QMK. Currently the switches are mapped to: 4:a,5:b,6:c,7:d,1:e,2:f,3:g going from left to right (top to bottom if there is more than one key in a column) and the rotary encoder is set to increase decrease volume depending on the rotation.
 
 ## BOM (Bill of Materials)
 
@@ -32,7 +37,8 @@ The folder for the firmware is titled "alloyed" and uses QMK.
 * 1x 0.91 Inch OLED Display
 * 1x Seeed XIAO RP2040
 * 4x M3x16mm Screws
+* 1x ~5mm thick piece of foam
 
 ### Materials already owned
-* 700g White PLA Filament (for the case)
+* 700g White PLA Filament (possible with much less but my printer is very bad so it took 8 attempts before it printed an *acceptible* case)
 * Soldering Iron
