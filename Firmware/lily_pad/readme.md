@@ -1,20 +1,20 @@
-# alloyed
+# lily_pad
 
-![alloyed](imgur.com image replace me!)
+![lily_pad](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Number22313](https://github.com/Number22313)
+* Keyboard Maintainer: [Alloy](https://github.com/Alloy)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
 
-    make alloyed:default
+    make lily_pad:default
 
 Flashing example for this keyboard:
 
-    make alloyed:default:flash
+    make lily_pad:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
